@@ -1,0 +1,8 @@
+[submodule "start/omnisharp-vim"]
+  path = start/omnisharp-vim
+  url = https://github.com/OmniSharp/omnisharp-vim.git
+  ignore = dirty
+[submodule "start/vim-ps1"]
+  path = start/vim-ps1
+  url = https://github.com/PProvost/vim-ps1.git
+  ignore = dirty
