@@ -6,3 +6,11 @@
   path = start/vim-ps1
   url = https://github.com/PProvost/vim-ps1.git
   ignore = dirty
+[submodule "start/vim-misc"]
+	path = start/vim-misc
+	url = https://github.com/xolox/vim-misc.git
+  ignore = dirty
+[submodule "start/vim-shell"]
+	path = start/vim-shell
+	url = https://github.com/xolox/vim-shell.git
+  ignore = dirty
